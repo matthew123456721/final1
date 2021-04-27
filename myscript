@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "CPU Info:"
+who
+free -h
+df -khT
+ip address
+
